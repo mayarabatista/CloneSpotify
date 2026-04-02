@@ -1,0 +1,33 @@
+{
+  "name": "clonespotify",
+  "version": "1.0.0",
+  "description": "Este é um Clone do Spotify, desenvolvimento para \r fins educacionais. Objetivo é criar uma interface semelhante á \r do Spotify, utilizando tecnologias web modernas.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "tailwindcss -i ./input.css -o ./src/css/style.css --watch",
+    "build": "tailwindcss -i ./input.css -o ./src/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayarabatista/CloneSpotify.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "Spotify",
+    "Clone",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Mayara Santos",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mayarabatista/CloneSpotify/issues"
+  },
+  "homepage": "https://github.com/mayarabatista/CloneSpotify#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.2",
+    "tailwindcss": "^4.2.2"
+  }
+}
