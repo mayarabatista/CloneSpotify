@@ -6,7 +6,7 @@ do Spotify, utilizando tecnologias web modernas.
  
  ## Tecnologias Utilizadas
 
- -HTML
+ -HTML 5
  -CSS 3
  -Javascript
  -Tailwind CSS (versão 4.x)
