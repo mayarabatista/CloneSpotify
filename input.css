@@ -5,13 +5,13 @@
     --spacing-125px: 125px;
 
     --color-hoverspt: #18D760;
-    --collor-purple-main: #2D46B9;
+    --color-purple-main: #2D46B9;
     --color-green-main: #1ED760;
     
     --fonte-sizw-xl: 9rem;
 
     --background-image-spotify-theme: url('/src/img/bursts.svg');
-    --background-image-spotify-theme-mobile: url('/src/img/bursts.svg');
+    --background-image-spotify-theme-mobile: url('/src/img/bursts-mobile.svg');
 }
 @utility bg-size-175 {
 
